@@ -9,4 +9,3 @@
 - Mogučnost 3. Ispravak podataka računa
 - Mogučnost 4. Pretraživanje određenih stavki računa
 - Mogučnost 5. Spremanje podataka računa u datoteku
-</p>
